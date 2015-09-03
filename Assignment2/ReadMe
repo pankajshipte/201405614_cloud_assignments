@@ -1,0 +1,14 @@
+Content:
+    1. ReadMe
+    2. Assignment2.py
+
+Prerequisites:
+    Mininet
+        
+How To Run:
+    1. Execute Assignment2.py with two integer arguments (number of host, Number of Switches) 
+    2. Number of hosts should be twice Number of Switches.
+    Eg: python Assignment2.py 6 3
+    
+Youtube Link:
+    https://youtu.be/Akj08T0yGxg
